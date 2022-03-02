@@ -1,0 +1,20 @@
+Started by GitHub push by gharipriya
+Running as SYSTEM
+Building remotely on [8mha:////4FCv9SVfElcU1zUekvqERyu1YTR7yojAUVevg/pojkukAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygOw0BADPgR8QAAAA=[0mnode1 in workspace /home/ubuntu/A1/workspace/C-project
+The recommended git tool is: NONE
+using credential 3012564d-916b-414b-b618-ab1b5f161f8c
+ > git rev-parse --resolve-git-dir /home/ubuntu/A1/workspace/C-project/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/gharipriya/c-project.git # timeout=10
+Fetching upstream changes from https://github.com/gharipriya/c-project.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --force --progress -- https://github.com/gharipriya/c-project.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 44f0f86093206c15af41105943ccc4c91f0a6a0a (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 44f0f86093206c15af41105943ccc4c91f0a6a0a # timeout=10
+Commit message: "Update rev.c"
+ > git rev-list --no-walk 7d7572fc819611cd4fd56bbabd0904508288584d # timeout=10
+Finished: SUCCESS

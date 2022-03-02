@@ -1,0 +1,20 @@
+Started by user [8mha:////4PseMsrONeWP1N94eR0Sd8KjjaZCooGOuOl6g6Z2thXVAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL9jMSizIKizMpEAHXwAuHEAAAA[0mharipriya v g
+Running as SYSTEM
+Building remotely on [8mha:////4FCv9SVfElcU1zUekvqERyu1YTR7yojAUVevg/pojkukAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygOw0BADPgR8QAAAA=[0mnode1 in workspace /home/ubuntu/A1/workspace/C-project
+The recommended git tool is: NONE
+using credential 3012564d-916b-414b-b618-ab1b5f161f8c
+ > git rev-parse --resolve-git-dir /home/ubuntu/A1/workspace/C-project/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/gharipriya/c-project.git # timeout=10
+Fetching upstream changes from https://github.com/gharipriya/c-project.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --force --progress -- https://github.com/gharipriya/c-project.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 7e4c726c9cfcdb276042a12e3ad591430fc890ca (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 7e4c726c9cfcdb276042a12e3ad591430fc890ca # timeout=10
+Commit message: "Update rev.c"
+ > git rev-list --no-walk 1668f338e92722a36d9b285277f3e7ad0283006b # timeout=10
+Finished: SUCCESS

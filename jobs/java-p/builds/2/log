@@ -1,0 +1,23 @@
+Started by user [8mha:////4PseMsrONeWP1N94eR0Sd8KjjaZCooGOuOl6g6Z2thXVAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL9jMSizIKizMpEAHXwAuHEAAAA[0mharipriya v g
+Running as SYSTEM
+Building remotely on [8mha:////4GIDQdsGmaQA44iJ5Erdv7zb9lTG4P6r0Ks5sxtoWPsDAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygO40AumLp3sQAAAA=[0mnode2 in workspace /home/ubuntu/java/workspace/java-p
+The recommended git tool is: NONE
+using credential 3012564d-916b-414b-b618-ab1b5f161f8c
+Cloning the remote Git repository
+Cloning repository https://github.com/gharipriya/java-p.git
+ > git init /home/ubuntu/java/workspace/java-p # timeout=10
+Fetching upstream changes from https://github.com/gharipriya/java-p.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --force --progress -- https://github.com/gharipriya/java-p.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/gharipriya/java-p.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision ff2581523e545134346663d0b7113ebf3e773f5a (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f ff2581523e545134346663d0b7113ebf3e773f5a # timeout=10
+Commit message: "Added license"
+ > git rev-list --no-walk ff2581523e545134346663d0b7113ebf3e773f5a # timeout=10
+Finished: SUCCESS

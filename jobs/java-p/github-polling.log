@@ -1,0 +1,14 @@
+Started on Feb 26, 2022, 1:45:51 PM
+Started by event from 140.82.115.117 ⇒ http://3.95.250.182:8080/github-webhook/ on Sat Feb 26 13:45:51 UTC 2022
+Using strategy: Default
+[poll] Last Built Revision: Revision 6018c2230a589d60b075cc706a484c6b2052e45b (refs/remotes/origin/master)
+The recommended git tool is: NONE
+using credential 3012564d-916b-414b-b618-ab1b5f161f8c
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+using GIT_ASKPASS to set credentials 
+ > git ls-remote -h -- https://github.com/gharipriya/java-p.git # timeout=10
+Found 1 remote heads on https://github.com/gharipriya/java-p.git
+[poll] Latest remote head revision on refs/heads/master is: ce8c8bbc24a70155dfa9c7c6cc3b86c22f953aa3
+Done. Took 0.16 sec
+Changes found

@@ -1,0 +1,32 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-02-25 07:32:33.910 UTC</timestamp>
+  <md5sum>6aaab4dd45f682a30f2a501d4644c1f3</md5sum>
+  <fileName>Credential id=3012564d-916b-414b-b618-ab1b5f161f8c name=haripriya/******</fileName>
+  <usages>
+    <entry>
+      <string>C-project</string>
+      <ranges>1-12</ranges>
+    </entry>
+    <entry>
+      <string>java-1</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>java-p</string>
+      <ranges>1-5</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.6.1">
+      <timestamp>1645857040925</timestamp>
+      <nodeName>node2</nodeName>
+      <timestamp0>1645855660925</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.6.1">
+      <timestamp>1645857566174</timestamp>
+      <nodeName>node1</nodeName>
+      <timestamp0>1645856006175</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

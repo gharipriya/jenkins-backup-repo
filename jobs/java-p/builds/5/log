@@ -1,0 +1,20 @@
+Started by user [8mha:////4PseMsrONeWP1N94eR0Sd8KjjaZCooGOuOl6g6Z2thXVAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZ+/dLi1CL9jMSizIKizMpEAHXwAuHEAAAA[0mharipriya v g
+Running as SYSTEM
+Building remotely on [8mha:////4GIDQdsGmaQA44iJ5Erdv7zb9lTG4P6r0Ks5sxtoWPsDAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygO40AumLp3sQAAAA=[0mnode2 in workspace /home/ubuntu/java/workspace/java-p
+The recommended git tool is: NONE
+using credential 3012564d-916b-414b-b618-ab1b5f161f8c
+ > git rev-parse --resolve-git-dir /home/ubuntu/java/workspace/java-p/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/gharipriya/java-p.git # timeout=10
+Fetching upstream changes from https://github.com/gharipriya/java-p.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --force --progress -- https://github.com/gharipriya/java-p.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 5473f7b5f0cfd0ea39afe0026c207a113d595d4c (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 5473f7b5f0cfd0ea39afe0026c207a113d595d4c # timeout=10
+Commit message: "Update pom.xml"
+ > git rev-list --no-walk ce8c8bbc24a70155dfa9c7c6cc3b86c22f953aa3 # timeout=10
+Finished: SUCCESS
